@@ -1,0 +1,4 @@
+To use REPL (the thing with the 3 >>>), type python3 in the terminal at the bottom of screen.
+
+To exit the REPL, type in exit()
+
