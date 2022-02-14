@@ -1,0 +1,28 @@
+from re import T
+import turtle
+turtle.shape("triangle")
+
+turtle.left(90)
+turtle.forward(50)
+turtle.right(180)
+turtle.forward(100)
+turtle.left(180)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.right(180)
+turtle.forward(100)
+turtle.left(180)
+turtle.forward(50)
+turtle.penup()
+turtle.right(90)
+turtle.pendown()
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(180)
+turtle.forward(100)
+turtle.exitonclick()
+
