@@ -1,7 +1,8 @@
 print("enter your name")
 x = input()
 
-# This is a note
+print("You said that your name is: ", x)
+
 if x == "David":
     print("you are cool")
 else:
@@ -9,4 +10,4 @@ else:
 
     print("stay geeky")
     print("you are", x)
-    
+  # This is a note  
